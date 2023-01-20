@@ -1,0 +1,57 @@
+[
+  {
+    "projectName": "Project Ocean",
+    "discription": "This is a project created by students of acropolis institute of technology, Indore of CSIT department",
+    "author": "Rajeev Singh Jadon",
+    "collaborator": "Shreyansh Rathore",
+    "technologyUsed": "Nodejs, Expressjs, Mongoose, Bootstrap, MongoDbAtlas",
+    "rating": 5,
+    "createdBy": "63ac3ca8588a7f4024c38263",
+    "deployment": "https://mongoosejs.com/docs/schematypes.html#strings",
+    "code": "github.com"
+  },
+  {
+    "projectName": "Amazon clone using React",
+    "discription": "Nowadays the first thing that someone does when they create a new business for trading goods is to convert their commerce to e-commerce. Many businesses even prefer to have e-commerce as their only mode of doing business. The potential of e-commerce is nearly limitless, reason for which we'll be going on a ride to create an e-commerce solution of our own!",
+    "author": "Rajeev Singh Jadon",
+    "collaborator": "Ram Dubey",
+    "technologyUsed": "Nodejs, Expressjs, Mongoose, Bootstrap, MongoDbAtlas",
+    "rating": 5,
+    "createdBy": "63ac3ca8588a7f4024c38263",
+    "deployment": "https://mongoosejs.com/docs/schematypes.html#strings",
+    "code": "github.com"
+  },
+  {
+    "projectName": "Resume Builder Web Application",
+    "discription": "Have you ever thought of building a beginner-friendly React project and enhance your skills to the next level? Have you ever thought of making the task of resume generation simpler by auto-generating it in awesome templates? If so, this is your chance to grab the idea and start building this cool project.",
+    "author": "Rajeev Singh Jadon",
+    "collaborator": "Shreyansh",
+    "technologyUsed": "Nodejs, Expressjs, Mongoose, Bootstrap, MongoDbAtlas",
+    "rating": 5,
+    "createdBy": "63ac3ca8588a7f4024c38263",
+    "deployment": "https://mongoosejs.com/docs/schematypes.html#strings",
+    "code": "github.com"
+  },
+  {
+    "projectName": "WhatsApp Web Clone",
+    "discription": "We all have used WhatsApp web on our PCs. Ever thought of making it yourself? The interface that we will be making for our project will look alike. Firebase real time database will give you seamless messaging feature.",
+    "author": "Rajeev Singh Jadon",
+    "collaborator": "Shreyansh",
+    "technologyUsed": "Nodejs, Expressjs, Mongoose, Bootstrap, MongoDbAtlas",
+    "rating": 5,
+    "createdBy": "63ac3ca8588a7f4024c38263",
+    "deployment": "https://mongoosejs.com/docs/schematypes.html#strings",
+    "code": "github.com"
+  },
+  {
+    "projectName": "Online Code Editor (React)",
+    "discription": "Want to take your frontend development skills to the next level? Build an online code editor in React and start using it to edit your source code. All you enthusiastic frontend developers reading this, make sure to tick this off from your bucket list of react projects for beginners.",
+    "author": "Rajeev Singh Jadon",
+    "collaborator": "Shreyansh",
+    "technologyUsed": "Nodejs, Expressjs, Mongoose, Bootstrap, MongoDbAtlas",
+    "rating": 5,
+    "createdBy": "63ac3ca8588a7f4024c38263",
+    "deployment": "https://mongoosejs.com/docs/schematypes.html#strings",
+    "code": "github.com"
+  }
+]
